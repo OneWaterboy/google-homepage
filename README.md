@@ -1,0 +1,1 @@
+This is an attempt to clone the look of the Google Homepage as an introduction into Web Development through the Odin Project. Functionality will not exist as it does on the actual homepage, just the look and feel of it.
